@@ -1,4 +1,3 @@
-
 # 📝 To-Do List
 
 Aplicación web de lista de tareas desarrollada con **HTML, CSS y JavaScript**.  
@@ -49,4 +48,3 @@ Las tareas se almacenan en **LocalStorage**, lo que permite mantenerlas guardada
 =======
 # To-Do-List
 Aplicación To-Do List en HTML, CSS y JavaScript con guardado en localStorage.
-
