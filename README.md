@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📝 To-Do List
 
 Aplicación web de lista de tareas desarrollada con **HTML, CSS y JavaScript**.  
@@ -45,3 +46,7 @@ Las tareas se almacenan en **LocalStorage**, lo que permite mantenerlas guardada
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/Frannkk-1994/To-Do-List.git
+=======
+# To-Do-List
+Aplicación To-Do List en HTML, CSS y JavaScript con guardado en localStorage.
+>>>>>>> ca97b2843a10a238ce5bc9599969f689d5587a88
